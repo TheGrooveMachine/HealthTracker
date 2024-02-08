@@ -1,0 +1,39 @@
+Name: Julia Sarun
+
+Account: jns2613
+
+Have you been on co-op? no
+
+List 1 to 3 programming languages you know: HTML, CSS, JS
+
+List 1 to 3 hobbies or interests: playing, sleeping
+
+Name: Griffin Moose
+
+Account: gsm1298
+
+Have you been on co-op? no
+
+List 1 to 3 programming languages you know: Java, JS, PHP
+
+List 1 to 3 hobbies or interests: snowmobiling, gaming
+
+Name: Erich Snell
+
+Account eds5997
+
+Have you been on co-op? yes
+
+List 1 to 3 programming languages you know: Java, JS, HTML/CSS
+
+List 1 to 3 hobbies or interest: Watching Movies, Travel, Language-learning
+
+Name: Alex Leute
+
+Account acl2809
+
+Have you been on co-op? no
+
+List 1 to 3 programming languages you know: Java, Python,
+
+List 1 to 3 hobbies or interest: Gaming, tabletop role-playing games (like D&D)

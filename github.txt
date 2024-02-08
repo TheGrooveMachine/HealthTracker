@@ -1,0 +1,43 @@
+commit b148db52f045882e7a35e06a1c6965b88e5e204a
+Author: Griffin Moose <gsm1298@rit.edu>
+Date:   Thu Sep 22 08:16:13 2022 -0400
+
+    created src directory and added java source files
+
+commit 4714c58e322db2ee8c9a4e9fe774e54998f143cf
+Author: Griffin Moose <gsm1298@rit.edu>
+Date:   Thu Sep 22 08:02:41 2022 -0400
+
+    updated members.txt
+
+commit 9098d667560bb2cd8ebe139ba21334622039eebb
+Author: Griffin Moose <gsm1298@rit.edu>
+Date:   Thu Sep 22 07:56:26 2022 -0400
+
+    updated README
+
+commit 4a4c37ed1dfabdd45708ff31d35f48f656a256a1
+Author: Julia Sarun <jns2613@rit.edu>
+Date:   Thu Sep 22 00:55:04 2022 -0400
+
+    created and edited members.txt, pulled commit log
+
+commit 63990f84936b36904d45795d8de53c3c3ac190e9
+Author: jns2613 <70070892+jns2613@users.noreply.github.com>
+Date:   Thu Sep 22 00:26:54 2022 -0400
+
+    Updated README
+    
+    added my name, pasted Trello board link, added predetermined meeting times
+
+commit 0117229db55347ea6822c3fe3d5ccbbe6486c598
+Author: Alex Leute <acl2809@rit.edu>
+Date:   Wed Sep 21 22:38:14 2022 -0400
+
+    Added my name, and the team name.
+
+commit ba2dc8c1c9439510196858dd911db50b80b64d67
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Thu Sep 15 16:07:37 2022 +0000
+
+    Initial commit
